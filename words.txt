@@ -2689,6 +2689,7 @@ footsie
 footsore
 footwear
 footwork
+foshi
 fossil
 foster
 founder
@@ -3030,6 +3031,7 @@ groove
 grooving
 groovy
 grope
+groshi
 ground
 grouped
 grout
